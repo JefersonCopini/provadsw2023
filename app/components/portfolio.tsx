@@ -8,7 +8,7 @@ export default function portfolio() {
             </div>
             <div className="bg-[#4d4d4d] rounded-md pb-2">
                 <a href="#">
-                    <img className="hover:scale-105" src="/img/pic02.jpg" alt="" />
+                    <img src="/img/pic02.jpg" alt="" />
                     <div className="text-white text-center">
     
                     </div>
