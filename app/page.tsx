@@ -1,7 +1,13 @@
 import Image from 'next/image'
+import Footer from './components/footer'
+import Banner from './components/banner'
 
 export default function Home() {
   return (
-   <h1> home</h1>
+    <div>
+      <header />
+    <Banner />
+    <Footer />
+    </div>
   )
 }
