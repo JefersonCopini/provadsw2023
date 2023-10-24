@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     (
       <html lang="en">
-      <body className="max-w-[1440px] m-auto bg-[#3d3d3d]">{children}</body>
+      <body className="max-w-[1440px] m-auto bg-gradient-to-r from-blue-900 via-indigo-800 to-yellow-500">{children}</body>
     </html>
     )
   )
