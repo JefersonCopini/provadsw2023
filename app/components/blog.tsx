@@ -8,6 +8,7 @@ export default function Blog() {
           </p>
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
+        <a href="#" className="flex flex-col items-center"> </a>
           <a href="#">
             <img className="w-3/4" src="/img/pic08.jpg" alt="" />
             <p>
@@ -20,6 +21,7 @@ export default function Blog() {
           </a>
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
+        <a href="#" className="flex flex-col items-center"> </a>
           <a href="#">
             <img className="w-3/4" src="/img/pic09.jpg" alt="" />
             <p>
