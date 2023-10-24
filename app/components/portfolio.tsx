@@ -18,7 +18,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
-          <a href="#" className="flex flex-col items-center"> {/* Adicione a classe flex e items-center */}
+          <a href="#" className="flex flex-col items-center"> 
             <img src="/img/pic03.jpg" alt="" />
             <div className="text-white text-center">
               <p>
@@ -29,7 +29,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
-          <a href="#" className="flex flex-col items-center"> {/* Adicione a classe flex e items-center */}
+          <a href="#" className="flex flex-col items-center"> 
             <img src="/img/pic04.jpg" alt="" />
             <div className="text-white text-center">
               <p>
@@ -40,7 +40,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
-          <a href="#" className="flex flex-col items-center"> {/* Adicione a classe flex e items-center */}
+          <a href="#" className="flex flex-col items-center"> 
           <img src="/img/pic06.jpg" alt="" />
             <div className="text-white text-center">
               <p>
@@ -51,7 +51,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
-          <a href="#" className="flex flex-col items-center"> {/* Adicione a classe flex e items-center */}
+          <a href="#" className="flex flex-col items-center">
             <img src="/img/pic07.jpg" alt="" />
             <div className="text-white text-center">
               <p>
