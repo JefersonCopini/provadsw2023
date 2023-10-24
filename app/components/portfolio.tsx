@@ -8,7 +8,7 @@ export default function portfolio() {
             </div>
             <div className="bg-[#4d4d4d] rounded-md pb-2">
                 <a href="#">
-                    <img className="hover:scale-105" src="/img/pic01.jpg" alt="" />
+                    <img className="hover:scale-105" src="/img/pic02.jpg" alt="" />
                     <div className="text-white text-center">
     
                     </div>
@@ -16,14 +16,14 @@ export default function portfolio() {
             </div>
             <div className="bg-[#4d4d4d] rounded-md pb-2">
                 <a href="#">
-                    <img src="/img/pic.jpg" alt="" />
+                    <img src="/img/pic03.jpg" alt="" />
                     <div className="text-white text-center">
                     </div>
                 </a>
             </div>
             <div className="bg-[#4d4d4d] rounded-md pb-2">
                 <a href="#">
-                    <img src="/img/pic03.jpg" alt="" />
+                    <img src="/img/pic04.jpg" alt="" />
                     <div className="text-white text-center">
                         
                     </div>
@@ -31,15 +31,7 @@ export default function portfolio() {
             </div>
             <div className="bg-[#4d4d4d] rounded-md pb-2">
                 <a href="#">
-                    <img src="/img/pic04,jpg" alt="" />
-                    <div className="text-white text-center">
-                       
-                    </div>
-                </a>
-            </div>
-            <div className="bg-[#4d4d4d] rounded-md pb-2">
-                <a href="#">
-                    <img src="/img/pic05.jpg" alt="" />
+                    <img src="/img/pic05,jpg" alt="" />
                     <div className="text-white text-center">
                        
                     </div>
@@ -49,7 +41,7 @@ export default function portfolio() {
                 <a href="#">
                     <img src="/img/pic06.jpg" alt="" />
                     <div className="text-white text-center">
-                    
+                       
                     </div>
                 </a>
             </div>
@@ -77,6 +69,7 @@ export default function portfolio() {
                     </div>
                 </a>
             </div>
+            
         </main>
 
     )
