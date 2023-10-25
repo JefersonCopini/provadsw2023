@@ -1,12 +1,12 @@
 export default function Banner() {
   return (
     <div className="text-white">
-      <div className="text-center text-white">
-        <h1 className="mt-8 text-4xl md:text-5xl lg:text-6xl">Paintings</h1>
-        <img src="/img/banner.png" alt="" className="mx-auto mt-4 w-full md:w-3/4 lg:w-1/2 xl:w-1/3" />
-        <div className="flex flex-col items-center mt-4">
-        </div>
-      </div>
+      <div className="text-center text-white w-full h-auto mx-auto">
+       <h1 className="mt-8 text-4xl md:text-5xl lg:text-6xl">Paintings</h1>
+          <img src="/img/banner.png" alt="" className="mx-auto w-full md:w-3/4 lg:w-1/2 xl:w-1/3"  />
+    <div className="flex flex-col items-center mt-4"> </div>
+</div>
+
       <div className="bg-[#4d4d4d] rounded-md pb-2 text-center">
         <div className="flex flex-col md:flex-row justify-center items-center">
           <div className="flex flex-col items-center">
