@@ -7,7 +7,7 @@ export default function Portfolio() {
           </h2>
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
-          <a href="#" className="flex flex-col items-center"> {/* Adicione a classe flex e items-center */}
+          <a href="#" className="flex flex-col items-center"> 
             <img src="/img/pic02.jpg" alt="" />
             <div className="text-white text-center">
               <p>
