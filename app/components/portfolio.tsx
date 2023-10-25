@@ -41,6 +41,17 @@ export default function Portfolio() {
         </div>
         <div className="bg-[#4d4d4d] rounded-md pb-2">
           <a href="#" className="flex flex-col items-center"> 
+            <img src="/img/pic05.jpg" alt="" />
+            <div className="text-white text-center">
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero nobis consectetur, maxime quos itaque exercitationem blanditiis adipisci! Illo, excepturi nemo impedit officiis consequatur doloremque ea porro, quidem at omnis harum!
+              </p>
+              <a href="#" className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline">Procurar Mais</a>
+            </div>
+          </a>
+        </div>
+        <div className="bg-[#4d4d4d] rounded-md pb-2">
+          <a href="#" className="flex flex-col items-center"> 
           <img src="/img/pic06.jpg" alt="" />
             <div className="text-white text-center">
               <p>
