@@ -14,7 +14,7 @@ export default function Blog() {
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque similique corporis illum exercitationem autem repudiandae ducimus neque id dignissimos, inventore soluta delectus ut maiores. Consectetur beatae odit molestiae est dolorum!
             </p>
-            <div className="text-center mt-2">
+            <div className=" text-center mt-2 md: flex flex-col space-y-2">
               <a href="#" className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline mb-2 md:mb-0 md:mr-2">Continue reading</a>
               <a href="#" className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline">Comments (33)</a>
             </div>
@@ -28,7 +28,7 @@ export default function Blog() {
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam excepturi facere sed inventore! Error dolorem suscipit, nobis odit ad nostrum vitae autem, necessitatibus tempora modi, quaerat ipsam delectus perferendis nihil.
             </p>
-            <div className="text-center mt-2">
+            <div className="text-center mt-2 md: flex flex-col space-y-2">
               <a href="#" className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline mb-2 md:mb-0 md:ml-2">Continue reading</a>
               <a href="#" className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline">Comments (33)</a>
             </div>

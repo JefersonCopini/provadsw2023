@@ -24,10 +24,39 @@ export default function Banner() {
             </p>
           </div>
         </div>
-        <div className="mt-4">
-          <a href="#" className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline">Get Started</a>
-          <a href="#" className="hidden md:inline-block ml-2 text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline">Learn More</a>
-        </div>
+        <div className="mt-4 flex flex-col items-center">
+    {/* Botões para dispositivos desktop */}
+    <div className="hidden md:flex space-x-2">
+      <a
+        href="#"
+        className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline"
+      >
+        Get Started
+      </a>
+      <a
+        href="#"
+        className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline"
+      >
+        Learn More
+      </a>
+    </div>
+    {/* Botões para dispositivos móveis */}
+    <div className="md:hidden flex flex-col space-y-2">
+      <a
+        href="#"
+        className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline"
+      >
+        Get Started
+      </a>
+      <a
+        href="#"
+        className="text-blue-500 border border-blue-500 rounded-md px-2 py-1 hover:underline"
+      >
+        Learn More
+      </a>
+    
+  </div>
+</div>
       </div>
     </div>
   );
